@@ -1,0 +1,22 @@
+Sofa ID,Category,Sofa Name,Colours,Price(GBP),Availability
+A001,Armchair,Low Back,Grey,320,2
+A002,Armchair,High Back,Brown,380,3
+A003,Armchair,Swivel,Dark Blue,410,7
+A004,Armchair,Wingback,Cream,450,6
+A005,Armchair,Recliner,Grey,480,5
+L001,Loveseat,Camelback Loveseat,Cream,550,10
+L002,Loveseat,Tuxedo Loveseat,Dark Blue,590,12
+L003,Loveseat,Reclining Loveseat,Brown,620,15
+L004,Loveseat,Settee,Cream,510,32
+S001,Sofa Bed,Pull-Out Sofa Bed,Grey,700,3
+S002,Sofa Bed,Futon Sofa Bed,Dark Blue,620,1
+S003,Sofa Bed,Daybed,Cream,690,23
+S004,Sofa Bed,L-Shaped Sofa Bed,Black,890,2
+SE001,Sectional Sofa,L-Shaped Sectional,White,1200,3
+SE002,Sectional Sofa,U-Shaped Sectional,Black,1450,4
+SE003,Sectional Sofa,Curved Sectional,Cream,1350,12
+SE004,Sectional Sofa,Sleeper Sectional,Grey,1500,34
+C001,Chaise Lounge,Classic Chaise,Brown,530,23
+C002,Chaise Lounge,Victorian Chaise,White,610,23
+C003,Chaise Lounge,Armless Chaise,Black,580,13
+C004,Chaise Lounge,Double Chaise,Cream,720,12
